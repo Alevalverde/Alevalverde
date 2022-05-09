@@ -7,7 +7,7 @@
 ## Hello People!!! 👋
 
 Soy un desarrollador web Full-Stack, Argentino, nacido en Mendoza al pie de "Los Andes". Desde chico me apasioné por todo el mundo tech, incursionando desde la electrónica aplicada a la informática. Hoy puedo decir que mis sueños de niño son una realidad.
-Me considero una persona muy pragmática y polifacética, me desenvuelvo con facilidad tanto en el front como en el back. Si estas interesado en mi trabajo puedes hechar un vistazo a mi portafolo clickeando [aquí](https://alevalverde.com/).
+Me considero una persona muy pragmática y polifacética, me desenvuelvo con facilidad tanto en el front como en el back. Si estas interesado en mi trabajo puedes hechar un vistazo a mi portafolo clickeando [aquí](https://alevalverde.github.io/Portfolio/).
 No dudes en preguntarme todo lo que quieras 💭.
 
 <br/>
