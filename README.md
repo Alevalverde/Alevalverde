@@ -1,97 +1,84 @@
-﻿<!-- <a href="https://prod-discovery.edx-cdn.org/media/programs/card_images/2f377daa-30b3-487f-941c-18503633a4a1-12209ba765df.jpg"><img src="https://prod-discovery.edx-cdn.org/media/programs/card_images/2f377daa-30b3-487f-941c-18503633a4a1-12209ba765df.jpg " title="source: imgur.com" /></a> -->
+# 👨‍💻 Alejandro Valverde - Full Stack Developer 
 
-<h1 align="center">Alejandro Valverde - Full Stack Web Developer</h1>
-
-<p align="left">
-
-## Hello People!!! 👋
-
-Soy un desarrollador web Full-Stack, Argentino, nacido en Mendoza al pie de "Los Andes". Desde chico me apasioné por todo el mundo tech, incursionando desde la electrónica aplicada a la informática. Hoy puedo decir que mis sueños de niño son una realidad.
-Me considero una persona muy pragmática y polifacética, me desenvuelvo con facilidad tanto en el front como en el back. Si estas interesado en mi trabajo puedes hechar un vistazo a mi portafolo clickeando [aquí](https://alevalverde.github.io/Portfolio/).
-No dudes en preguntarme todo lo que quieras 💭.
-
-<br/>
-
-
-</p><h2 align="center">Lenguajes y herramientas:</h2><p align="left"> 
- 
 <div align="center">
-•Javascript
-•Git
-•React
-•Redux
-•HTML
-•CSS
-•Figma
-•NodeJs 
-•Express
-•Postman
-•PostgreSQL
-•SQLite
-•Prisma
-•Sequelize
-•Babel
-•MongoDB
-•Mongoose
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;Solucionador+de+problemas;Creativo+y+detallista" alt="Titulo animado" />
 </div>
 
-<div align="center" >
+---
 
-<!-- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
+## 🚀 Sobre mí
 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>   
+<p align="justify">
+¡Hola mundo! 👋 Soy Alejandro, desarrollador Full Stack nacido en Mendoza, Argentina, al pie de la majestuosa cordillera de los Andes. 
 
-<a href="https://www.prisma.io/" target="_blank"> <img src="https://images.tute.io/tute/topic/prisma.png"  alt="kotlin" width="50" height="50" /> </a> 
+Desde niño me fascinó el mundo tech, comenzando con electrónica y evolucionando hacia el desarrollo de software. Hoy transformo ideas en soluciones digitales robustas y elegantes.
 
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /> </a>
+Me considero un profesional polifacético con mentalidad pragmática, igualmente cómodo trabajando en frontend como en backend. Disfruto los desafíos técnicos y crear experiencias de usuario memorables.
 
-<a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" /> </a> 
+🔭 Actualmente estoy trabajando en proyectos personales para expandir mis habilidades  
+🌱 Aprendiendo constantemente nuevas tecnologías y mejores prácticas  
+💡 Apasionado por la arquitectura de software y UX/UI  
+⚡ Dato curioso: Antes de programar, reparaba equipos electrónicos  
+</p>
 
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a> -->
+---
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> 
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-<a href="https://expressjs.com" target="_blank"><img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" background-color="#ffffff" alt="express" width="50" height="50" /> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
-<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
-<a href="https://sequelize.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/file-type-sequelize-icon-443x512-ck0z81j3.png" alt="kotlin" width="40" height="40" /> </a> 
-<a href="https://babeljs.io/" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" background-color="white" alt="babel" width="50" height="50" margin-top="100px" /> </a>
-<a href="https://www.mongodb.com/es" target="_blank"><img src="https://miro.medium.com/max/552/1*NRCOyVBY6Jiqr4Q9A1zoaQ.png" alt="mongodb" width="40" height="40" /> </a> 
-<a href="https://mongoosejs.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="mongoosejs" width="40" height="40" /> 
-</a><a href="https://reactnative.dev/" target="_blank"><img src="https://www.theblocklearning.com/wp-content/uploads/2018/09/512px-React-icon.svg.png" alt="reactnative" width="60" height="40" /> </a>
+## 🛠 Stack Tecnológico
 
-<br></br>
+### 💻 Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
- <h3 align="center" >My Portfolio</h3> <div align="center" > <a href="" target="_blank"><img align="center" src="https://www.gutxudesign.com/wp-content/uploads/2016/01/portafolio.png" alt="Ale-Valverde" height="200" width="220" /></a>
- 
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### 🗃️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### 🔧 Herramientas
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
+
+---
+
+## 📂 Portafolio
+
+<div align="center">
+  <a href="https://alevalverde.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Portafolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
+    <br/>
+    <img src="https://cdn.dribbble.com/users/417517/screenshots/15758530/media/0d948e5d0f0d9b1f8e8d4.png" alt="Portfolio Preview" width="400"/>
+  </a>
 </div>
-  <br></br>
 
-<h2 align="center">Contact</h2>
- 
-  
+---
 
+## 📫 Contáctame
 
+<p align="center">
+  <a href="https://linkedin.com/in/alejandro-valverde-fullstackdeveolper" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:alevalverdev8@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/AleRValverde" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
-<p>
-    <a href="https://linkedin.com/in/alejandro-valverde-fullstackdeveolper">
-      <img align="center" src="https://i.imgur.com/pSEI8t9.png" height="50" width="50" />
-    </a>
-    <a href="https://www.instagram.com/">
-      <img align="center" src="https://i.imgur.com/7ibmujg.png" height="50" width="50" />
-    </a>
-    <a href="mailto:alevalverdev8@hotmail.com">
-      <img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" height="50" width="50" />
-    </a>
-    <a href="https://twitter.com/AleRValverde">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="50" />
-    </a>
-<p/>
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alevalverde&label=Profile%20views&color=0e75b6&style=flat" alt="alevalverde" /> 
+</div>
