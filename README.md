@@ -1,8 +1,8 @@
 # 👨‍💻 Alejandro Valverde — Backend Developer | Cloud Enthusiast
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=600&lines=Backend+Developer+especializado+en+Node.js+%26+TypeScript;Arquitecturas+escalables+y+serverless;Eficiencia%2C+adaptabilidad+y+precisión" alt="Typing Header" />
-</div>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;Solucionador+de+problemas;Creativo+y+detallista" alt="Titulo animado" />
+ </div>
 
 ---
 
