@@ -1,12 +1,12 @@
-# 👨‍💻 Alejandro Valverde - Full Stack Developer 
+# 👨‍💻 Alejandro Valverde — Backend Developer | Cloud Enthusiast
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;Solucionador+de+problemas;Creativo+y+detallista" alt="Titulo animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=600&lines=Backend+Developer+especializado+en+Node.js+%26+TypeScript;Arquitecturas+escalables+y+serverless;Eficiencia%2C+adaptabilidad+y+precisión" alt="Typing Header" />
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 🧭 Acerca de mí
 
 <p align="justify">
 ¡Hola mundo! 👋 Soy Alejandro, desarrollador Full Stack nacido en Mendoza, Argentina, al pie de la majestuosa cordillera de los Andes. 
@@ -22,46 +22,75 @@ Soy un desarrollador versátil y orientado a resultados, con experiencia sólida
 
 ---
 
-## 🛠 Stack Tecnológico
+## 🧰 Stack Tecnológico
 
-### 💻 Frontend
+### 🧠 Lenguajes & Frameworks
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-20232a?style=flat-square&logo=fastify&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/-Lambda-F90?style=flat-square&logo=aws-lambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/-API_Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF9900?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![Serverless Framework](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+
+---
+
+### 📦 Contenedores & Orquestación
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+
+### 📈 Observabilidad & Monitoreo
+
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF9900?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+
+---
 
 ### 🗃️ Bases de Datos
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 
-### 🔧 Herramientas
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+---
+
+### 🧪 Testing & Herramientas
+
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📂 Portafolio
+## 🌐 Portafolio
 
-<div align="center">
+<p align="center">
   <a href="https://alevalverde.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Portafolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
-    <br/>
   </a>
-</div>
+</p>
 
 ---
 
-## 📫 Contáctame
+## 📫 Contacto
 
 <p align="center">
   <a href="https://linkedin.com/in/alejandro-valverde-fullstackdeveolper" target="_blank">
@@ -78,5 +107,5 @@ Soy un desarrollador versátil y orientado a resultados, con experiencia sólida
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alevalverde&label=Profile%20views&color=0e75b6&style=flat" alt="alevalverde" /> 
+  <img src="https://komarev.com/ghpvc/?username=alevalverde&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </div>
