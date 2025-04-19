@@ -13,11 +13,11 @@
 
 Desde niño me fascinó el mundo tech, comenzando con electrónica y evolucionando hacia el desarrollo de software. Hoy trato de plasmar mis ideas y las de otros en realidades tangibles.
 
-Soy un desarrollador versátil y orientado a resultados, con experiencia sólida tanto en el desarrollo frontend como backend. Mi enfoque se centra en construir soluciones eficientes, escalables y de alta calidad, adaptándome a las necesidades del proyecto con una mentalidad práctica y colaborativa.
+Me considero un desarrollador versátil y orientado a resultados, con experiencia sólida en el desarrollo del backend (aunque también me gusta el front). Mi enfoque se centra en construir soluciones eficientes, escalables y de alta calidad, adaptándome a las necesidades del proyecto con una mentalidad práctica y colaborativa.
 
-🔭 Actualmente, desempeño el rol de Desarrollador Senior Backend, especializándome en Node.js y TypeScript, donde diseño e implemento sistemas robustos.
-🌱 Estoy comprometido con el aprendizaje continuo, buscando siempre mejorar mis habilidades y enfrentar nuevos desafíos técnicos.
-💡 Tengo un profundo interés en la arquitectura de software, enfocándome en crear estructuras escalables, mantenibles y bien diseñadas que impulsen el éxito de los proyectos.
+- 🔭 **Rol Actual**: Desarrollador Senior Backend especializado en Node.js y TypeScript, diseñando e implementando sistemas robustos.
+- 🌱 **Desarrollo Profesional**: Comprometido con el aprendizaje continuo y la superación de nuevos desafíos técnicos.
+- 💡 **Intereses Técnicos**: Arquitectura de software para crear soluciones escalables, mantenibles y bien diseñadas.
 </p>
 
 ---
