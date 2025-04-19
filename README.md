@@ -11,14 +11,13 @@
 <p align="justify">
 ¡Hola mundo! 👋 Soy Alejandro, desarrollador Full Stack nacido en Mendoza, Argentina, al pie de la majestuosa cordillera de los Andes. 
 
-Desde niño me fascinó el mundo tech, comenzando con electrónica y evolucionando hacia el desarrollo de software. Hoy transformo ideas en soluciones digitales robustas y elegantes.
+Desde niño me fascinó el mundo tech, comenzando con electrónica y evolucionando hacia el desarrollo de software. Hoy trato de plasmar mis ideas y las de otros en realidades tangibles.
 
-Me considero un profesional polifacético con mentalidad pragmática, igualmente cómodo trabajando en frontend como en backend. Disfruto los desafíos técnicos y crear experiencias de usuario memorables.
+Soy un desarrollador versátil y orientado a resultados, con experiencia sólida tanto en el desarrollo frontend como backend. Mi enfoque se centra en construir soluciones eficientes, escalables y de alta calidad, adaptándome a las necesidades del proyecto con una mentalidad práctica y colaborativa.
 
-🔭 Actualmente estoy trabajando en proyectos personales para expandir mis habilidades  
-🌱 Aprendiendo constantemente nuevas tecnologías y mejores prácticas  
-💡 Apasionado por la arquitectura de software y UX/UI  
-⚡ Dato curioso: Antes de programar, reparaba equipos electrónicos  
+🔭 Actualmente, desempeño el rol de Desarrollador Senior Backend, especializándome en Node.js y TypeScript, donde diseño e implemento sistemas robustos.
+🌱 Estoy comprometido con el aprendizaje continuo, buscando siempre mejorar mis habilidades y enfrentar nuevos desafíos técnicos.
+💡 Tengo un profundo interés en la arquitectura de software, enfocándome en crear estructuras escalables, mantenibles y bien diseñadas que impulsen el éxito de los proyectos.
 </p>
 
 ---
@@ -57,7 +56,6 @@ Me considero un profesional polifacético con mentalidad pragmática, igualmente
   <a href="https://alevalverde.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Portafolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
     <br/>
-    <img src="https://cdn.dribbble.com/users/417517/screenshots/15758530/media/0d948e5d0f0d9b1f8e8d4.png" alt="Portfolio Preview" width="400"/>
   </a>
 </div>
 
